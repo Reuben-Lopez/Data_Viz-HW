@@ -1,1 +1,3 @@
 # Data_Viz-HW
+
+I was not able to display the last couple graphs because we ran a conda update in class that seems to have overwrote certain software packages we took so long to create. If my dashboard where to work it would be broken up into four sections. The first being a Welcome tab that has the scatter plot of all the San Fransico neigborhoods. Next is a breakdown of the yearly market analysis which includes the graphs of average housing units per year, the average gross rent per year and finally the averages sales unit per year, for the San Fransico area. Next, is a tab that brokes this down by each individual neighboorhood and then show the top ten most expensive neighborhoods. Finally, we have a parallel plots analysis tab.
